@@ -1,0 +1,29 @@
+{
+    "profile": {
+        "name": "Your Name",
+        "title": "Your Title",
+        "bio": "Passionate developer...",
+        "image": "profile.jpg"
+    },
+    "about": {
+        "description": "I am...",
+        "stats": {
+            "experience": "0",
+            "projects": "0",
+            "clients": "0",
+            "awards": "0"
+        }
+    },
+    "skills": {
+        "technical": [
+            {
+                "name": "Web Development",
+                "percentage": 70
+            },
+            {
+                "name": "JavaScript",
+                "percentage": 65
+            }
+        ]
+    }
+}
